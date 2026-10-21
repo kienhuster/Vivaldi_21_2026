@@ -1,0 +1,5 @@
+outputs/
+*.asv
+*.aedt.lock
+*.aedtresults/
+__pycache__/
