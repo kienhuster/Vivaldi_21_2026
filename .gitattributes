@@ -1,0 +1,8 @@
+# Giữ byte nguồn tham chiếu và vendor đúng ZIP, kể cả trên Windows.
+/17_10_2026_vivaldi.aedt -text
+/Phan_tich_chi_tiet_Vivaldi_dual_pol_17_10_2026.md -text
+/Standard_Vivaldi_GUI.m -text
+/hfss-api-master.zip -text
+third_party/hfss-api/** -text whitespace=-blank-at-eol,-blank-at-eof,-space-before-tab
+/Vivaldi_*.m text eol=lf
+tests/** text eol=lf

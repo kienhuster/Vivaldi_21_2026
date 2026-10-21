@@ -1,0 +1,6 @@
+# Tệp sinh ra tại máy người dùng
+outputs/
+*.asv
+*.aedt.lock
+*.aedtresults/
+__pycache__/
